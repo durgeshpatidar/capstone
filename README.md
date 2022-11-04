@@ -1,4 +1,4 @@
-# Project Title
+# Capstone Project
 
 Book my consulting API serves backend services to manage doctors appointment. It has been built on Spring platform using spring-boot framework.
 
@@ -43,5 +43,4 @@ output
 
 8. Use the postman collection in the repo  `bookmyconsultation.postman_collection.json`
 > Best wishes!
-# capstone
 # capstone
